@@ -1,0 +1,38 @@
+# Copyright (C) 2023 Motive
+# This file is distributed under the GPL-2.0+.
+
+msgid "Name"
+msgstr ""
+
+msgid "Short description"
+msgstr ""
+
+msgid "Category"
+msgstr ""
+
+msgid "Tags"
+msgstr ""
+
+msgid "Bundle"
+msgstr ""
+
+msgid "Virtual"
+msgstr ""
+
+msgid "Featured"
+msgstr ""
+
+msgid "On Sale"
+msgstr ""
+
+msgid "Description"
+msgstr ""
+
+msgid "In Stock"
+msgstr ""
+
+msgid "Price"
+msgstr ""
+
+msgid "Code"
+msgstr ""

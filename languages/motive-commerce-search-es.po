@@ -1,0 +1,35 @@
+# Copyright (C) 2023 Motive
+# This file is distributed under the Apache License, Version 2.0.
+msgid ""
+msgstr ""
+"Project-Id-Version: Motive Commerce Search 1.13.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/motive-commerce-search\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-03-17T07:53:15+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.7.1\n"
+"X-Domain: motive-commerce-search\n"
+
+#. Plugin Name of the plugin
+msgid "Motive Commerce Search"
+msgstr "Motive Commerce Search"
+
+#. Plugin URI of the plugin
+msgid "https://www.motive.co"
+msgstr "https://www.motive.co/es"
+
+#. Description of the plugin
+msgid "Commerce search that you and your shoppers can trust. Incredible design. Intuitive interface. Powerful customisations. Tracker and cookie-free."
+msgstr ""
+
+#. Author of the plugin
+msgid "Motive"
+msgstr "Motive"
+
+#. Author URI of the plugin
+msgid "https://www.motive.co/about-us"
+msgstr "https://www.motive.co/es/about-us"

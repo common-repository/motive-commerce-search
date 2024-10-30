@@ -1,0 +1,28 @@
+{
+    "name": "motive/woocommerce",
+    "autoload": {
+        "psr-4": {
+            "Motive\\Woocommerce\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "motive"
+        }
+    ],
+    "scripts": {
+        "lint": "phpcs -p -s --cache .",
+        "lint-fix": "phpcbf --cache ."
+    },
+    "require-dev": {
+        "wp-coding-standards/wpcs": "^3.0",
+        "phpcompatibility/phpcompatibility-wp": "*"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable" : true,
+    "config": {
+        "allow-plugins": {
+            "dealerdirect/phpcodesniffer-composer-installer": true
+        }
+    }
+}

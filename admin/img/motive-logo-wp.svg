@@ -1,0 +1,23 @@
+<!--
+  - (C) 2023 Motive Commerce Search Corp S.L. <info@motive.co>
+  -
+  - This file is part of Motive Commerce Search.
+  -
+  - This file is licensed to you under the Apache License, Version 2.0 (the "License");
+  - you may not use this file except in compliance with the License.
+  - You may obtain a copy of the License at
+  -
+  -     http://www.apache.org/licenses/LICENSE-2.0
+  -
+  - Unless required by applicable law or agreed to in writing, software
+  - distributed under the License is distributed on an "AS IS" BASIS,
+  - WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  - See the License for the specific language governing permissions and
+  - limitations under the License.
+  -
+  - @author Motive (motive.co)
+  - @copyright (C) 2023 Motive Commerce Search Corp S.L. <info@motive.co>
+  - @license https://www.apache.org/licenses/LICENSE-2.0 Apache License, Version 2.0
+  -->
+
+<svg viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M32.798 5.354c-1.48-1.166-3.525-1.809-5.76-1.809-3.075 0-5.926.886-7.182 2.417C18.6 4.43 15.75 3.545 12.673 3.545c-2.234 0-4.28.643-5.759 1.809C4.98 6.878 4 9.203 4 12.264v10.158c0 .386.335.699.748.699H8.52c.413 0 .748-.313.748-.7V12.265c0-1.025.612-3.685 3.405-3.685 3.76 0 4.55 2.198 4.55 4.041v9.802c0 .386.334.699.747.699h3.772c.413 0 .748-.313.748-.7v-9.8c0-1.844.789-4.042 4.549-4.042 2.794 0 3.405 2.66 3.405 3.685v10.158c0 .386.335.699.748.699h3.772c.413 0 .748-.313.748-.7V12.265c0-3.061-.98-5.386-2.914-6.91Zm-1.344 21.751a.702.702 0 0 0-.649.45c-.708 1.79-1.771 3.131-3.22 4.066-1.397.901-3 1.327-4.523 1.491-.363.04-.638.362-.638.748v3.84c0 .44.353.789.766.752 2.26-.2 4.74-.816 6.977-2.25 2.8-1.797 4.745-4.525 5.8-8.12.143-.484-.202-.977-.68-.977h-3.833Z" fill="#fff"/></svg>
